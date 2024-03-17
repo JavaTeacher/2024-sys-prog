@@ -9,7 +9,7 @@
 
 ## 개인 Repository 사용법 (수업시간에 같이 함)
 
-1. 본 Repository를 본인 컴퓨터에 Clone 합니다.
+1. 리눅스에서 git 명령어로 개인 Repository를 Clone 합니다.
 
 2. STUDENT.md 파일을 수정합니다.
 
